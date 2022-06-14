@@ -1,0 +1,1 @@
+For image embedding in internal emails.
